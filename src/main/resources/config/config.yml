@@ -1,3 +1,5 @@
-MyRuleSet:
-  MyRule:
+ExtComposeRuleSet:
+  LongMethod:
     active: true
+    threshold: 60
+    composeThreshold: 100
