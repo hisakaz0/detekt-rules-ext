@@ -1,4 +1,4 @@
-package org.example.detekt
+package io.github.hisakaz0.detekt.rules.ext
 
 import io.gitlab.arturbosch.detekt.api.Config
 import io.gitlab.arturbosch.detekt.api.RuleSet

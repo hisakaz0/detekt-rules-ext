@@ -1,1 +1,1 @@
-org.example.detekt.MyRuleSetProvider
+io.github.hisakaz0.detekt.rules.ext.MyRuleSetProvider

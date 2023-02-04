@@ -5,7 +5,7 @@ plugins {
     `maven-publish`
 }
 
-group = "org.example.detekt"
+group = "io.github.hisakaz0"
 version = "1.0-SNAPSHOT"
 
 repositories {
