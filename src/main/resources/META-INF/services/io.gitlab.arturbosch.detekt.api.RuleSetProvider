@@ -1,1 +1,1 @@
-io.github.hisakaz0.detekt.rules.ext.MyRuleSetProvider
+io.github.hisakaz0.detekt.rules.ext.ExtComposeRuleSetProvider
