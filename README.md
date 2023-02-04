@@ -17,7 +17,7 @@ repositories {
 }
 
 dependencies {
-    detektPlugins("io.github.hisakaz0:detekt-rules-ext:1.0.0")
+    detektPlugins("com.github.hisakaz0:detekt-rules-ext:1.0.0")
 }
 ```
 
